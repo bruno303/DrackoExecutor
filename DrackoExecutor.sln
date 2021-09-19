@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrackoExecutor.Core", "DrackoExecutor.Core\DrackoExecutor.Core.csproj", "{E7F3C4D9-7CF7-4BBD-B8D8-8045F9A6096B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrackoExecutor.Core.Test", "DrackoExecutor.Core.Test\DrackoExecutor.Core.Test.csproj", "{EB0E5044-F587-4CA5-972F-97BD130199D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F3C4D9-7CF7-4BBD-B8D8-8045F9A6096B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F3C4D9-7CF7-4BBD-B8D8-8045F9A6096B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F3C4D9-7CF7-4BBD-B8D8-8045F9A6096B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F3C4D9-7CF7-4BBD-B8D8-8045F9A6096B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0E5044-F587-4CA5-972F-97BD130199D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0E5044-F587-4CA5-972F-97BD130199D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0E5044-F587-4CA5-972F-97BD130199D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0E5044-F587-4CA5-972F-97BD130199D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
